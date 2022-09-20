@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aaksahk
+- 👋 Hi, I’m @Aakash
 - 👀 I’m interested in web development and programming
 - 🌱 I’m currently learning object oriented programming 
 - 💞️ I’m looking to collaborate on 
